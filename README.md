@@ -26,3 +26,19 @@
 [website]: http://canerture.com/
 [instagram]: https://www.instagram.com/cnrture/
 [linkedin]: https://www.linkedin.com/in/cnrture/
+
+</br>
+</br>
+
+<h2 align="left">Projeler</h2>
+<a href="https://github.com/cnrture/InstagramCloneApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=InstagramCloneApp&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/cnrture/EngelliArabaOyunu">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=EngelliArabaOyunu&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/cnrture/AAGameClone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=AAGameClone&theme=tokyonight" />
+</a>
