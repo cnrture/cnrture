@@ -7,7 +7,6 @@
 * Kurucu Ortağı olduğum [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) adında 5 kişilik bir ekibim var. 
 * [Android Student Club](https://www.linkedin.com/company/android-student-club/)'da Team Lead olarak görev almaktayım.
 * [DSC Istanbul University Cerrahpasa](https://www.linkedin.com/company/dsciuc)'da Technical Team Coordinator olarak görev almaktayım.
-* [Goldcert Belgelendirme](https://www.linkedin.com/company/goldcertcomtr/)'de Dijital Pazarlama ve Sosyal Medya Sorumlusuyum.
 * Aktif olarak **Kotlin** ile mobil uygulama geliştirme üzerine çalışıyorum.
 * Tasarım alanında da **Adobe Illustrator & Adobe XD** ile çizimler yapıp, sosyal medya tasarımları hazırlıyorum.
 
