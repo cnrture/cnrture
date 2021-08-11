@@ -31,6 +31,14 @@
 
 <h2 align="left">Projeler</h2>
 
+<a href="https://github.com/cnrture/TwitterCloneApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=TwitterCloneApp&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/cnrture/BooksApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=BooksApp&theme=tokyonight" />
+</a>
+
 <a href="https://github.com/cnrture/JetpackCompose-NumberPredictionApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=JetpackCompose-NumberPredictionApp&theme=tokyonight" />
 </a>
