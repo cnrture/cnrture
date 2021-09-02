@@ -4,7 +4,7 @@
 
 <h2 align="left">Neler yapıyorum ?</h2>
 
-* Kurucu Ortağı olduğum [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) adında 5 kişilik bir ekibim var. 
+* Kurucu Ortağı olduğum [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) adında 6 kişilik bir ekibim var. 
 * [Stilus](https://stilus.com.tr/)'ta Android Developer olarak çalışıyorum.
 * [Android Student Club](https://www.linkedin.com/company/android-student-club/)'da Team Lead olarak görev almaktayım.
 * [DSC Istanbul University Cerrahpasa](https://www.linkedin.com/company/dsciuc)'da Technical Team Coordinator olarak görev almaktayım.
