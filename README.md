@@ -30,7 +30,7 @@
 </br>
 </br>
 
-<h2 align="left">Projeler</h2>
+<h2 align="left">Projects</h2>
 
 <a href="https://github.com/cnrture/TwitterCloneApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=TwitterCloneApp&theme=tokyonight" />
