@@ -32,26 +32,11 @@
 
 <h2 align="left">Projects</h2>
 
-<a href="https://github.com/cnrture/TwitterCloneApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=TwitterCloneApp&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/cnrture/BooksApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=BooksApp&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/cnrture/JetpackCompose-NumberPredictionApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=JetpackCompose-NumberPredictionApp&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/cnrture/InstagramCloneApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=InstagramCloneApp&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/cnrture/EngelliArabaOyunu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=EngelliArabaOyunu&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/cnrture/AAGameClone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cnrture&repo=AAGameClone&theme=tokyonight" />
-</a>
+Compose | MVVM        | Retrofit           | Firebase | RecyclerView | Room Database | SQLite Database |
+|:------:|:-----------:|:-------------:|:-----:|:------:|:-----:|:-----:|
+| [NumberPrediction](https://github.com/cnrture/JetpackCompose-NumberPredictionApp) | [BooksApp](https://github.com/cnrture/BooksApp)| [BooksApp](https://github.com/cnrture/BooksApp) | [Firebase](https://github.com/cnrture/TwitterCloneApp) | [RecyclerView](https://github.com/cnrture/WTech-RecyclerView) | [RoomDatabase](https://github.com/cnrture/WTech-RoomDatabase) | [SQLite](https://github.com/cnrture/WTech-SQLite) |
+| |[TwitterCloneApp](https://github.com/cnrture/TwitterCloneApp)| [Retrofit](https://github.com/cnrture/WTech-Retrofit) |  | [PeriodicTableAdpp](https://github.com/cnrture/PeriodicTableApp) |
+| |[MVVM Ornek 1](https://github.com/cnrture/WTech-MVVMOrnek1)|       |  | [InstagramClone](https://github.com/cnrture/InstagramCloneApp) |
+| |[MVVM Ornek 2](https://github.com/cnrture/WTech-MVVMOrnek2)|       |  |
+| |[ViewModelLiveDataRepo](https://github.com/cnrture/WTech-ViewModelLiveDataRepo)|     |  |
+| |[DataBinding](https://github.com/cnrture/WTech-DataBinding)|       |  |
