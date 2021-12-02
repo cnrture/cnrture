@@ -21,7 +21,7 @@
 
 [<img align="left" alt="canerture.com" height="30px" src="https://image.flaticon.com/icons/png/512/876/876610.png" />][website]
 [<img align="left" alt="canerture | LinkedIn" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png"/>][linkedin]
-[<img align="left" alt="canerture | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="canerture | Instagram" height="30px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" />][instagram]
 
 [website]: http://canerture.com/
 [instagram]: https://www.instagram.com/cnrture/
