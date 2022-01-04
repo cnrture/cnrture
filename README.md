@@ -6,7 +6,7 @@
 
 * I have a team of 6 people named [Netabis](https://play.google.com/store/apps/dev?id=91667799844501256088) that I am the Co-Founder.
 * I am working as an Android Developer at [Stilus](https://stilus.com.tr/).
-* I am a Team Lead at [Android Student Club](https://www.linkedin.com/company/android-student-club/).
+* I am a Team Lead at [Android Developers Group](https://www.linkedin.com/company/android-student-club/).
 * I am working as a Technical Team Coordinator at [DSC Istanbul University Cerrahpasa](https://www.linkedin.com/company/dsciuc).
 * I am actively working on mobile application development with **Kotlin**.
 * In the field of design, I draw with **Adobe Illustrator & Adobe XD** and prepare social media designs.
