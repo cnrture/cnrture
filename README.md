@@ -40,3 +40,5 @@ Compose | MVVM        | Retrofit           | Firebase | RecyclerView | Room Data
 | |[MVVM Ornek 2](https://github.com/cnrture/WTech-MVVMOrnek2)|       |  |
 | |[ViewModelLiveDataRepo](https://github.com/cnrture/WTech-ViewModelLiveDataRepo)|     |  |
 | |[DataBinding](https://github.com/cnrture/WTech-DataBinding)|       |  |
+
+![snake gif](https://github.com/cnrture/cnrture/blob/output/github-contribution-grid-snake.svg)
