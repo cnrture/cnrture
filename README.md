@@ -5,7 +5,7 @@
 <h2 align="left">What am I doing?</h2>
 
 * I have a team of 6 people named [Netabis](https://play.google.com/store/apps/dev?id=91667799844501256088) that I am the Co-Founder.
-* I am working as an Android Developer at [Stilus](https://stilus.com.tr/).
+* I am working as an Android Developer at [Huawei](https://www.huawei.com/tr/).
 * I am a Team Lead at [Android Developers Group](https://www.linkedin.com/company/android-student-club/).
 * I am working as a Technical Team Coordinator at [DSC Istanbul University Cerrahpasa](https://www.linkedin.com/company/dsciuc).
 * I am actively working on mobile application development with **Kotlin**.
