@@ -38,7 +38,6 @@ I'm
 
 <h3 align="left">Social</h3>
 <p align="left"> 
-<a href="http://canerture.com/" target="_blank"> <img src="https://cdn-icons.flaticon.com/png/512/3059/premium/3059997.png?token=exp=1649708123~hmac=4ad3dc8bed3e78c225b3a0036b8c31bf" alt="canerture | Website" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/cnrture/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" alt="canerture | LinkedIn" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/cnrture/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="canerture | Instagram" width="40" height="40"/> </a>
   </p>
