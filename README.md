@@ -40,8 +40,4 @@ I'm
 <p align="left"> 
 <a href="https://www.instagram.com/cnrture/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" alt="canerture | LinkedIn" width="40" height="40"/> </a>
 <a href="https://www.linkedin.com/in/cnrture/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" alt="canerture | Instagram" width="40" height="40"/> </a>
-  </p>
-
-</br>
-
-<h2 align="left">Projects</h2>
+</p>
