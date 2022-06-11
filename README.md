@@ -10,16 +10,18 @@
 	<a href="mailto:cnrture@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/cnrture/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/yerfizikci"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
-  <a href="https://medium.com/@cnrture"><img src="https://img.icons8.com/bubbles/75/000000/medium-new.png" alt="Medium"/></a>
+  	<a href="https://medium.com/@cnrture"><img src="https://img.icons8.com/bubbles/75/000000/medium-new.png" alt="Medium"/></a>
 	<a href="https://www.instagram.com/cnrture/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
 	<a href="https://wa.me/+905423593169"><img src="https://img.icons8.com/bubbles/75/000000/whatsapp.png" alt="Whatsapp"/></a>
-</p><br/>
+</p>
+
+<br/>
 
 ---
 
 <br/>
 
-<img align="right" height="350px" alt="guy" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
+<img align="right" height="250px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 <h2 align="left">What am I doing?</h2>
 
