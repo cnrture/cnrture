@@ -26,14 +26,15 @@
 <h2 align="left">What am I doing?</h2>
 
 I'm
-* working as an Android Developer at [Huawei](https://www.huawei.com/tr/).
+* working as an Android Developer at [Loodos](https://www.loodos.com.tr/).
 * working on Jetpack Compose
 * trying to help everyone about Kotlin
 
 <h2 align="left">What did i do?</h2>
 
 * Team Lead at [Android Developers Group](https://www.linkedin.com/company/android-student-club/).
-* Android Developer at [Mobven](https://www.mobven.com/).
+* Android Developer at [Huawei](https://www.mobven.com/).
+* Android Developer at [Mobven](https://www.huawei.com/).
 * Technical Team Coordinator at [DSC Istanbul University Cerrahpasa](https://www.linkedin.com/company/dsciuc).
 * I had a team of 6 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) that I am the Co-Founder.
 
