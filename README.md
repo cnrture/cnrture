@@ -33,8 +33,8 @@ I'm
 <h2 align="left">What did i do?</h2>
 
 * Team Lead at [Android Developers Group](https://www.linkedin.com/company/android-student-club/).
-* Android Developer at [Huawei](https://www.mobven.com/).
-* Android Developer at [Mobven](https://www.huawei.com/).
+* Android Developer at [Huawei](https://www.huawei.com/).
+* Android Developer at [Mobven](https://www.mobven.com/).
 * Technical Team Coordinator at [DSC Istanbul University Cerrahpasa](https://www.linkedin.com/company/dsciuc).
 * I had a team of 6 person named [Netabis](https://play.google.com/store/apps/dev?id=9166779984501256088) that I am the Co-Founder.
 
