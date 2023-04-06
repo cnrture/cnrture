@@ -12,7 +12,6 @@
 	<a href="https://twitter.com/yerfizikci"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
   	<a href="https://medium.com/@cnrture"><img src="https://img.icons8.com/bubbles/75/000000/medium-new.png" alt="Medium"/></a>
 	<a href="https://www.instagram.com/cnrture/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
-	<a href="https://wa.me/+905423593169"><img src="https://img.icons8.com/bubbles/75/000000/whatsapp.png" alt="Whatsapp"/></a>
 </p>
 
 <br/>
