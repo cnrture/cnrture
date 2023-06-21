@@ -25,13 +25,14 @@
 <h2 align="left">What am I doing?</h2>
 
 I'm
-* working as an Android Developer at [Loodos](https://www.loodos.com.tr/).
+* working as an Android Developer at [Teknasyon](https://teknasyon.com/).
 * working on Jetpack Compose
 * trying to help everyone about Kotlin
 
 <h2 align="left">What did i do?</h2>
 
 * Team Lead at [Android Developers Group](https://www.linkedin.com/company/android-student-club/).
+* Android Developer at [Loodos](https://www.loodos.com.tr/).
 * Android Developer at [Huawei](https://www.huawei.com/).
 * Android Developer at [Mobven](https://www.mobven.com/).
 * Technical Team Coordinator at [DSC Istanbul University Cerrahpasa](https://www.linkedin.com/company/dsciuc).
