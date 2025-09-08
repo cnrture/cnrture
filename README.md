@@ -19,7 +19,7 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Multiplatform](https://img.shields.io/badge/Multiplatform-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Kotlin Spring Boot](https://img.shields.io/badge/Kotlin_Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 </div>
